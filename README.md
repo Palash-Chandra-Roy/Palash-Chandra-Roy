@@ -142,7 +142,7 @@ A customer-facing mobile application for the Yjeek service platform, designed fo
 - Push notifications
 - REST API integration
 
-**Tech Stack:** `Flutter` `Dart` `REST API` `Firebase`
+**Tech Stack:** `Flutter` `Dart` `REST API` `Firebase` `Payment Integration`
 
 🔗 [View Repository](https://github.com/Palash-Chandra-Roy/yjeek-customar-app)
 
@@ -180,7 +180,7 @@ A movies and television streaming application featuring authentication, subscrip
 - Search and category system
 - Content discovery
 
-**Tech Stack:** `Flutter` `Dart` `REST API` `Firebase`
+**Tech Stack:** `Flutter` `Dart` `REST API` `Firebase` `Subcription`
 
 🔗 [View Repository](https://github.com/Palash-Chandra-Roy/oloflix)
 
@@ -198,7 +198,7 @@ A service-oriented Flutter application designed around service workflows and app
 - Application state management
 - Production deployment workflow
 
-**Tech Stack:** `Flutter` `Dart` `REST API` `Firebase`
+**Tech Stack:** `Flutter` `Dart` `Firebase` `Subcription`
 
 🔗 [View Repository](https://github.com/Palash-Chandra-Roy/Paned-App)
 
@@ -215,7 +215,7 @@ A cloud-based record management application focused on secure authentication and
 - Secure application workflow
 - Firebase integration
 
-**Tech Stack:** `Flutter` `Dart` `Firebase`
+**Tech Stack:** `Flutter` `Dart` `REST API` `Firebase`
 
 🔗 [View Repository](https://github.com/Palash-Chandra-Roy/Flunexia-app)
 
@@ -232,7 +232,7 @@ A Flutter-based experimental application focused on integrating AI functionality
 - Mobile application workflows
 - API response handling
 
-**Tech Stack:** `Flutter` `Dart` `AI` `REST API`
+**Tech Stack:** `Flutter` `Dart` `AI` `REST API`  `Firebase`
 
 🔗 [View Repository](https://github.com/Palash-Chandra-Roy/the_demo_app)
 
