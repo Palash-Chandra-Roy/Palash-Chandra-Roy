@@ -123,7 +123,7 @@ A production-focused delivery driver application designed to manage driver opera
 - Push notifications
 - Backend API integration
 
-**Tech Stack:** `Flutter` `Dart` `REST API` `Firebase`
+**Tech Stack:** `Flutter` `Dart` `REST API` `Firebase` `Payment Integration`
 
 🔗 [View Repository](https://github.com/Palash-Chandra-Roy/Drivers-Mobile-app-)
 
@@ -215,7 +215,7 @@ A cloud-based record management application focused on secure authentication and
 - Secure application workflow
 - Firebase integration
 
-**Tech Stack:** `Flutter` `Dart` `REST API` `Firebase`
+**Tech Stack:** `Flutter` `Dart` `REST API` `Firebase` 
 
 🔗 [View Repository](https://github.com/Palash-Chandra-Roy/Flunexia-app)
 
