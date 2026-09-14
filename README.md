@@ -1,3 +1,4 @@
+<img width="2508" height="627" alt="linkin" src="https://github.com/user-attachments/assets/341fc9d9-caba-437d-82b0-99bd46d59353" />
 <div align="center">
 
 # 👋 Hi, I'm Palash Chandra Roy
