@@ -233,7 +233,7 @@ A Flutter-based experimental application focused on integrating AI functionality
 - Mobile application workflows
 - API response handling
 
-**Tech Stack:** `Flutter` `Dart` `AI` `REST API`  `Firebase`
+**Tech Stack:** `Flutter` `Dart` `AI` `REST API`  `Firebase` `Google and Apple login` 
 
 🔗 [View Repository](https://github.com/Palash-Chandra-Roy/the_demo_app)
 
