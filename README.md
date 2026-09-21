@@ -15,7 +15,6 @@ My work includes service platforms, delivery applications, marketplaces, streami
 
 </div>
 
----
 
 ## 👨‍💻 About Me
 
