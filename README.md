@@ -35,7 +35,7 @@ I focus on clean application architecture, API integration, state management, re
 - 🤖 Interested in AI-powered applications and automation
 - 📚 Continuously improving application architecture and engineering skills
 
----
+--
 
 # 🛠️ Technical Skills
 
