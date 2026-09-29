@@ -215,7 +215,7 @@ A cloud-based record management application focused on secure authentication and
 - Secure application workflow
 - Firebase integration
 
-**Tech Stack:** `Flutter` `Dart` `REST API` `Firebase` 
+**Tech Stack:** `Flutter` `Dart` `REST API` `Firebase` `RevenueCAt` 
 
 🔗 [View Repository](https://github.com/Palash-Chandra-Roy/Flunexia-app)
 
