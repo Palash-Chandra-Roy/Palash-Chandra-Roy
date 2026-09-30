@@ -161,7 +161,7 @@ A multi-vendor marketplace application designed to support vendors, customers, p
 - Vendor functionality
 - Analytics-oriented workflows
 
-**Tech Stack:** `Flutter` `Dart` `REST API` `Payment Integration`
+**Tech Stack:** `Flutter` `Dart` `REST API` `Firebase` `Payment Integration`
 
 🔗 [View Repository](https://github.com/Palash-Chandra-Roy/Market-Jango-App)
 
@@ -215,7 +215,7 @@ A cloud-based record management application focused on secure authentication and
 - Secure application workflow
 - Firebase integration
 
-**Tech Stack:** `Flutter` `Dart` `REST API` `Firebase` `RevenueCAt` 
+**Tech Stack:** `Flutter` `Dart` `REST API` `Firebase` 
 
 🔗 [View Repository](https://github.com/Palash-Chandra-Roy/Flunexia-app)
 
