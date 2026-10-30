@@ -161,7 +161,7 @@ A multi-vendor marketplace application designed to support vendors, customers, p
 - Vendor functionality
 - Analytics-oriented workflows
 
-**Tech Stack:** `Flutter` `Dart` `REST API` `Firebase` `Payment Integration`
+**Tech Stack:** `Flutter` `Dart` `REST API` `Firebase` `Payment Integration` `Subcription` `Google login` 
 
 🔗 [View Repository](https://github.com/Palash-Chandra-Roy/Market-Jango-App)
 
