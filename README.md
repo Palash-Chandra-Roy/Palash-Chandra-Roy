@@ -238,6 +238,25 @@ A Flutter-based experimental application focused on integrating AI functionality
 
 ---
 
+
+## 🛍️ CUED App — Flutter E-Commerce Application
+
+A Flutter-based e-commerce mobile application designed to provide a modern and user-friendly shopping experience. This project focuses on responsive UI development, reusable components, and efficient state management for cross-platform mobile applications.
+
+### Key Features
+- Modern and user-friendly shopping interface
+- Responsive UI for different screen sizes
+- Reusable Flutter widgets and components
+- State management using Provider
+- Cross-platform application structure
+- Scalable and maintainable code architecture
+
+**Tech Stack:** `Flutter` `Dart` `Provider` `Flutter ScreenUtil` `Material Design`
+
+🔗 [View Repository](https://github.com/Palash-Chandra-Roy/cued_app)
+
+---
+
 # 📲 Other Production Experience
 
 In addition to the featured repositories above, I have worked on multiple application types including:
@@ -257,24 +276,6 @@ My development experience includes both **Google Play Store** and **Apple App St
 
 ---
 
-<img width="1672" height="941" alt="image" src="https://github.com/user-attachments/assets/0d343f10-16ee-47a9-92fe-c7107c0c8c7d" />
-## 🛍️ CUED App — Flutter E-Commerce Application
-
-A Flutter-based e-commerce mobile application designed to provide a modern and user-friendly shopping experience. This project focuses on responsive UI development, reusable components, and efficient state management for cross-platform mobile applications.
-
-### Key Features
-- Modern and user-friendly shopping interface
-- Responsive UI for different screen sizes
-- Reusable Flutter widgets and components
-- State management using Provider
-- Cross-platform application structure
-- Scalable and maintainable code architecture
-
-**Tech Stack:** `Flutter` `Dart` `Provider` `Flutter ScreenUtil` `Material Design`
-
-🔗 [View Repository](https://github.com/Palash-Chandra-Roy/cued_app)
-
----
 
 # 🎯 Core Development Areas
 
