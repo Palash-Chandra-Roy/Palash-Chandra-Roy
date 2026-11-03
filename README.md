@@ -198,7 +198,7 @@ A service-oriented Flutter application designed around service workflows and app
 - Application state management
 - Production deployment workflow
 
-**Tech Stack:** `Flutter` `Dart` `Firebase` `Subcription` `RevenueCAt`
+**Tech Stack:** `Flutter` `Dart` `Firebase` `FireStore` `Subcription` `RevenueCAt`
 
 🔗 [View Repository](https://github.com/Palash-Chandra-Roy/Paned-App)
 
