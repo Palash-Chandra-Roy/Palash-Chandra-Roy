@@ -142,7 +142,7 @@ A customer-facing mobile application for the Yjeek service platform, designed fo
 - Push notifications
 - REST API integration
 
-**Tech Stack:** `Flutter` `Dart` `REST API` `Firebase` `Payment Integration`
+**Tech Stack:** `Flutter` `Dart` `REST API` `Firebase` `Payment Integration` `Google Map` 
 
 🔗 [View Repository](https://github.com/Palash-Chandra-Roy/yjeek-customar-app)
 
