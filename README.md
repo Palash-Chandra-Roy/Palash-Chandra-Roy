@@ -179,7 +179,7 @@ A movies and television streaming application featuring authentication, subscrip
 - Search and category system
 - Content discovery
 
-**Tech Stack:** `Flutter` `Dart` `REST API` `Firebase` `Subcription`
+**Tech Stack:** `Flutter` `Dart` `REST API` `Firebase` `Subcription` `Google login`
 
 🔗 [View Repository](https://github.com/Palash-Chandra-Roy/oloflix)
 
